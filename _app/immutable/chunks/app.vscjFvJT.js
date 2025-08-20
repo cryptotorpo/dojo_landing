@@ -2319,7 +2319,7 @@ const Ve = lr({
     { title: "About", href: "#about" },
     { title: "Products", href: "#core-products" },
     { title: "Token", href: "https://etherscan.io/token/0x00000000000000000000000000000000000000/" },
-    { title: "Stake", href: "https://staking.dojoai.ink" },
+    { title: "Stake", href: "https://stake.dojogpuprotocol.pro" },
     { title: "Documents", href: "https://docs.dojoai.ink" },
   ],
   $r = [
