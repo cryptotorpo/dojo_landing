@@ -2318,7 +2318,7 @@ const Ve = lr({
   Qr = [
     { title: "About", href: "#about" },
     { title: "Products", href: "#core-products" },
-    { title: "Token", href: "https://etherscan.io/token/0x00000000000000000000000000000000000000/" },
+    { title: "Token", href: "https://etherscan.io/token/0x4d9a17bf9ee80855e65508e20b16bee3dec42d79/" },
     { title: "Stake", href: "https://stake.dojogpuprotocol.pro" },
     { title: "Documents", href: "https://docs.dojoai.ink" },
   ],
