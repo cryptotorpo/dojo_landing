@@ -2314,17 +2314,17 @@ const Ve = lr({
     },
     defaultVariants: { variant: "default", size: "default" },
   }),
-  Zr = "Dojo AI Protocol",
+  Zr = "Dojo GPU Protocol",
   Qr = [
     { title: "About", href: "#about" },
     { title: "Products", href: "#core-products" },
-    { title: "Token", href: "https://etherscan.io/token/0xc758bc4920f6f5a585b535df1e6147d5f6a03f1f/" },
+    { title: "Token", href: "https://etherscan.io/token/0x00000000000000000000000000000000000000/" },
     { title: "Stake", href: "https://staking.dojoai.ink" },
     { title: "Documents", href: "https://docs.dojoai.ink" },
   ],
   $r = [
-    { network: "telegram", href: "https://t.me/dojoaieth" },
-    { network: "x", href: "https://x.com/dojoaieth" },
+    { network: "telegram", href: "https://t.me/dojo_gpu_protocol" },
+    { network: "x", href: "https://x.com/Dojo_GPU" },
   ],
   en = [], 
   tn = Xe({
